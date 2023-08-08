@@ -1,0 +1,5 @@
+day 1 = setup and installation for arduino / node mcu 
+day 2 = playing with led(rgb) with the help of node mcu and programming node mcu 
+day 3 = learning the use of switch.
+day 4 = handling bugs in switch and learning about light resistor(photoresistor).
+day 5 = learning relay module and ultra sonic distance censor

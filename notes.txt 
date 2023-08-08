@@ -1,3 +1,4 @@
 linux-notes:
 1. Run arduino ide from the folder with ./arduino-ide
 2. Run sudo chmod a+rw /dev/ttyUSB0 in terminal to give the permission.(port 0) 
+ 2.1 for not enterning the command 2 every time -> enter the dialout group for the user in linux 
